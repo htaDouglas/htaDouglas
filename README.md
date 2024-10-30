@@ -45,6 +45,8 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/htadouglas/htadouglas/output/snake.svg" alt="Snake animation" />
 
 ###
